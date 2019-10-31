@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Your Name"
 description              : "An amazing website."
 # url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-url                      : "https://jhlee.github.io"
+url                      : "https://jihoon6-lee.github.io"
 baseurl                  : ""
 # baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
